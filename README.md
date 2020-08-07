@@ -1,16 +1,22 @@
-### Hi there 👋
+## 👋 Hey There! I'm Sameeran.
 
-<!--
-**SameeranB/SameeranB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### ⚡ I like to take ideas and make them a reality. I just happen to be a Software Engineer...
+---
+🔭 Here's What I'm Working On Right Now:
+*  Django and Django Rest Framework
+* NuxtJS
+* UI Design Using Figma
 
-Here are some ideas to get you started:
+🌱 And Here's What I'm Learning:
+* Docker and Kubernetes
+* Travis CI
+* The Agile Methodology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫  I'd Love To Get In Touch:
+* [Email](mailto:sameeranbandishti93@gmail.com)
+* [Personal Website](https://www.sameeranbandishti.com)
+* [Twitter](https://twitter.com/Sameeran_B)
+* [LinkedIn]([https://www.linkedin.com/in/sameeran-bandishti/](https://www.linkedin.com/in/sameeran-bandishti/))
+* [Instagram]([https://www.instagram.com/sameeran_bandishti/](https://www.instagram.com/sameeran_bandishti/))
+
+
