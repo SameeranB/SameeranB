@@ -16,7 +16,7 @@
 * [Email](mailto:sameeranbandishti93@gmail.com)
 * [Personal Website](https://www.sameeranbandishti.com)
 * [Twitter](https://twitter.com/Sameeran_B)
-* [LinkedIn]([https://www.linkedin.com/in/sameeran-bandishti/](https://www.linkedin.com/in/sameeran-bandishti/))
-* [Instagram]([https://www.instagram.com/sameeran_bandishti/](https://www.instagram.com/sameeran_bandishti/))
+* [LinkedIn](https://www.linkedin.com/in/sameeran-bandishti/)
+* [Instagram](https://www.instagram.com/sameeran_bandishti/)
 
 
