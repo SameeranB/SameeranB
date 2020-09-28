@@ -1,6 +1,6 @@
 ## 👋 Hey There! I'm Sameeran.
 
-#### ⚡ I like to take ideas and make them a reality. I just happen to be a Software Engineer...
+#### ⚡ I love taking ideas and making them a reality. I just happen to be a Software Engineer...
 ---
 🔭 Here's What I'm Working On Right Now:
 *  Django and Django Rest Framework
