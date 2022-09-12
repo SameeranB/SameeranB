@@ -3,11 +3,14 @@
 #### ⚡ I love taking ideas and making them a reality. I just happen to be a Software Engineer...
 ---
 🔭 Here's What I'm Working On Right Now:
+* Building FamPay's Infrastructure on Kubernetes
+* Golang for web development
 * Django and Django Rest Framework
 * NuxtJS
 
 🌱 And Here's What I'm Learning:
-* Web Dev using GoLang
+* Engineering Management 
+* Kubernetes
 
 📫  I'd Love To Get In Touch:
 * [Email](mailto:sameeranbandishti93@gmail.com)
